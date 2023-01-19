@@ -3,9 +3,9 @@
 ### Contact me
 
 [telegram](https://t.me/aleksem07)\
-[discord](https://discordapp.com/users/658580989295067142)
-[EMAIL](aleksem07@gmail.com)\
-[GITHUB](https://github.com/aleksem07)\
+[discord](https://discordapp.com/users/658580989295067142)\
+[EMail](aleksem07@gmail.com)\
+[GitHub](https://github.com/aleksem07)
 
 ### Position
 
@@ -32,12 +32,9 @@ function multiply (a, b) {
 
 ### Education an courses
 
-**netology.ru** 
-SQL *(completed)*
-**HMTL Academy** 
-front-end *(in progress)*
-**rs school** 
-stage0 *(in progress)*
+**netology.ru** SQL *(completed)*\
+**HMTL Academy** front-end *(in progress)*\
+**rs school** stage0 *(in progress)*
 
 ## Languages
-- [x] Russian (Native) 
+[x] Russian (Native) 
