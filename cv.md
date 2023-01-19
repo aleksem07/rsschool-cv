@@ -1,22 +1,43 @@
-1. Alexey Semyachkin
+# Alexey Semyachkin
 
-2. telegram: @aleksem07 discord: x0m9k#9992
+### Contact me
 
-3. 
+[telegram](https://t.me/aleksem07)\
+[discord](https://discordapp.com/users/658580989295067142)
+[EMAIL](aleksem07@gmail.com)\
+[GITHUB](https://github.com/aleksem07)\
 
-4. HMTL/PUG/ CSS/SASS 
-	JavaScript
-	Git/GitHub
-	VS Code/Atom Figma/Photoshop
+### Position
 
-5. function multiply (a, b) {
-  	return a * b
-	}
+**Junior Front-End developer**
 
-6. catEnergy https://github.com/aleksem07/catEnergy
+### Skills
 
-7. netology.ru SQL (completed)
-   HMTL Academy front-end (in progress)
-   rs school stage0 (in progress)
+- HMTL/PUG/ CSS/SASS 
+- JavaScript
+- Git/GitHub
+- VS Code/Atom Figma/Photoshop
 
-8. 
+### Code examples
+
+```javascript
+function multiply (a, b) {
+  return a * b
+}
+```
+
+### Projects
+
+[catEnergy - HTML, CSS, JS](https://github.com/aleksem07/catEnergy)
+
+### Education an courses
+
+**netology.ru** 
+SQL *(completed)*
+**HMTL Academy** 
+front-end *(in progress)*
+**rs school** 
+stage0 *(in progress)*
+
+## Languages
+- [x] Russian (Native) 
