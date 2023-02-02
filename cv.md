@@ -13,12 +13,12 @@
 
 ### Skills
 
-- HMTL/PUG/ CSS/SASS 
+- HMTL/PUG, CSS/SASS 
 - JavaScript
 - Git/GitHub
 - BEM
 - Gulp
-- VS Code/Atom Figma/Photoshop
+- VS Code/Atom, Figma/Photoshop
 
 ### Code examples
 
@@ -30,7 +30,9 @@ function multiply (a, b) {
 
 ### Projects
 
-[catEnergy - HTML, CSS, JS](https://github.com/aleksem07/catEnergy)
+[catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)
+[kekstagram - JS](https://aleksem07.github.io/kekstagram/)
+[plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)
 
 ### Education an courses
 
