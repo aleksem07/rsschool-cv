@@ -23,9 +23,26 @@
 ### Code examples
 
 ```javascript
-function multiply (a, b) {
-  return a * b
+const obj = {
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime",2,3,4],
+  fifth:  "3"
+	
+  };
+
+function strCount(obj){
+  let result = 0;
+  for (let key in obj) {  
+    if (typeof obj[key] === "string") {
+      result += Number(obj[key]);
+    }
+  }
+return result;
 }
+
+strCount(obj); // 6
 ```
 
 ### Projects
