@@ -16,6 +16,8 @@
 - HMTL/PUG/ CSS/SASS 
 - JavaScript
 - Git/GitHub
+- BEM
+- Gulp
 - VS Code/Atom Figma/Photoshop
 
 ### Code examples
