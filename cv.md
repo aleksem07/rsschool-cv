@@ -18,7 +18,8 @@
 - Git/GitHub
 - BEM
 - Gulp
-- VS Code/Atom, Figma/Photoshop
+- Figma/Photoshop
+- React (studying now)
 
 ### Code examples
 
@@ -56,7 +57,8 @@ strCount(obj); // 6
 
 **netology.ru** SQL *(completed)*\
 **HMTL Academy** front-end *(in progress)*\
-**rs school** stage0 *(in progress)*
+**rs school** stage1 *(in progress)*
 
 ## Languages
+[x] English [(Pre-Intermediate (CEFR A2+))](test.str.by) 
 [x] Russian (Native) 
