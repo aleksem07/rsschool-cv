@@ -13,28 +13,52 @@
 
 ### Skills
 
-- HMTL/PUG/ CSS/SASS 
+- HMTL/PUG, CSS/SASS 
 - JavaScript
 - Git/GitHub
-- VS Code/Atom Figma/Photoshop
+- BEM
+- Gulp
+- Figma/Photoshop
+- React (studying now)
 
 ### Code examples
 
 ```javascript
-function multiply (a, b) {
-  return a * b
+const obj = {
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime",2,3,4],
+  fifth:  "3"
+	
+  };
+
+function strCount(obj){
+  let result = 0;
+  for (let key in obj) {  
+    if (typeof obj[key] === "string") {
+      result += Number(obj[key]);
+    }
+  }
+return result;
 }
+
+strCount(obj); // 6
 ```
 
 ### Projects
 
-[catEnergy - HTML, CSS, JS](https://github.com/aleksem07/catEnergy)
+[catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)
+[kekstagram - JS](https://aleksem07.github.io/kekstagram/)
+[plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)
+[onShelves - PUG](https://aleksem07.github.io/onShelves/)
 
 ### Education an courses
 
 **netology.ru** SQL *(completed)*\
 **HMTL Academy** front-end *(in progress)*\
-**rs school** stage0 *(in progress)*
+**rs school** stage1 *(in progress)*
 
 ## Languages
+[x] English [(Pre-Intermediate (CEFR A2+))](test.str.by) 
 [x] Russian (Native) 
