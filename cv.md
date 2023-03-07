@@ -48,17 +48,17 @@ strCount(obj); // 6
 
 ### Projects
 
-[catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)
-[kekstagram - JS](https://aleksem07.github.io/kekstagram/)
-[plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)
+[catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)\
+[kekstagram - JS](https://aleksem07.github.io/kekstagram/)\
+[plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)\
 [onShelves - PUG](https://aleksem07.github.io/onShelves/)
 
 ### Education an courses
 
 **netology.ru** SQL *(completed)*\
-**HMTL Academy** front-end *(in progress)*\
+**HMTL Academy** front-end *(in progress step5)*\
 **rs school** stage1 *(in progress)*
 
 ## Languages
-[x] English [(Pre-Intermediate (CEFR A2+))](test.str.by) 
+[x] English [(Pre-Intermediate (CEFR A2+))](https://test.str.by)\
 [x] Russian (Native) 
