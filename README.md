@@ -1,1 +1,1 @@
-[Deploy](https://aleksem07.github.io/rsschool-cv/)
+[Deploy](https://aleksem07.github.io/rsschool-cv/cv)
