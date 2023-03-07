@@ -51,8 +51,8 @@ strCount(obj); // 6
 [catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)\
 [kekstagram - JS](https://aleksem07.github.io/kekstagram/)\
 [plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)\
-[onShelves - PUG](https://aleksem07.github.io/onShelves/)
-
+[onShelves - PUG](https://aleksem07.github.io/onShelves/)\
+[farmerShop - React](https://aleksem07.github.io/farmerShop--react/) *(in progress)*
 ### Education an courses
 
 **netology.ru** SQL *(completed)*\
