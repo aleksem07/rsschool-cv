@@ -2,10 +2,10 @@
 
 ### Contact me
 
-[telegram](https://t.me/aleksem07)\
-[discord](https://discordapp.com/users/658580989295067142)\
-[EMail](aleksem07@gmail.com)\
-[GitHub](https://github.com/aleksem07)
+[![](./img/icon/telegram.svg 'telegram') telegram](https://t.me/aleksem07)\
+[![](./img/icon/discord.svg 'discord') discord](https://discordapp.com/users/658580989295067142)\
+[![](./img/icon/mail.svg 'EMail') EMail](aleksem07@gmail.com)\
+[![](./img/icon/github.svg 'GitHub') GitHub](https://github.com/aleksem07)
 
 ### Position
 
