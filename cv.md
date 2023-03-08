@@ -1,0 +1,64 @@
+# Alexey Semyachkin
+
+### Contact me
+
+[![](./img/icon/telegram.svg 'telegram') telegram](https://t.me/aleksem07)\
+[![](./img/icon/discord.svg 'discord') discord](https://discordapp.com/users/658580989295067142)\
+[![](./img/icon/mail.svg 'EMail') EMail](mailto:aleksem07@gmail.com)\
+[![](./img/icon/github.svg 'GitHub') GitHub](https://github.com/aleksem07)
+
+### Position
+
+**Junior Front-End developer**
+
+### Skills
+
+- HMTL/PUG, CSS/SASS 
+- JavaScript
+- Git/GitHub
+- BEM
+- Gulp
+- Figma/Photoshop
+- React (studying now)
+
+### Code examples
+
+```javascript
+const obj = {
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime",2,3,4],
+  fifth:  "3"
+	
+  };
+
+function strCount(obj){
+  let result = 0;
+  for (let key in obj) {  
+    if (typeof obj[key] === "string") {
+      result += Number(obj[key]);
+    }
+  }
+return result;
+}
+
+strCount(obj); // 6
+```
+
+### Projects
+
+[catEnergy - HTML, CSS, JS](https://aleksem07.github.io/catEnergy/)\
+[kekstagram - JS](https://aleksem07.github.io/kekstagram/)\
+[plants - HTML, CSS, JS](https://rolling-scopes-school.github.io/aleksem07-JSFEPRESCHOOL2022Q4/)\
+[onShelves - PUG](https://aleksem07.github.io/onShelves/)\
+[farmerShop - React](https://aleksem07.github.io/farmerShop--react/) *(in progress)*
+### Education an courses
+
+**netology.ru** SQL *(completed)*\
+**HMTL Academy** front-end *(in progress step5)*\
+**rs school** stage1 *(in progress)*
+
+## Languages
+[x] English [(Pre-Intermediate (CEFR A2+))](https://test.str.by)\
+[x] Russian (Native) 
